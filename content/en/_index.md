@@ -1,5 +1,5 @@
 ---
-author: Mark Dumay
+author: Shivam Raval
 title: Welcome to Hinode!
 ---
 

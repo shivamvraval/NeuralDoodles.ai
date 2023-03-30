@@ -9,9 +9,30 @@
   weight = 20
 
 [[main]]
+  name = "Misc"
+  url = "/blog/"
+  parent = "Blog"
+  weight = 30
+
+[[main]]
+  name = "Papers"
+  url = "/papers/"
+  parent = "Blog"
+  weight = 30
+
+[[main]]
+  name = "Videos"
+  url = "/media/"
+  parent = "Blog"
+  weight = 30
+
+
+
+[[main]]
   name = "Projects"
   url = "/projects/"
-  weight = 30
+  weight = 40
+  
 
 [[main]]
   name = "Sample project"
@@ -28,24 +49,24 @@
 [[main]]
   name = "Tags"
   url = "/tags/"
-  weight = 40
+  weight = 50
 
 [[social]]
   name = "LinkedIn"
   pre = "<i class=\"fab fa-linkedin fa-2x\"></i>"
-  url = "https://linkedin.com/"
+  url = "https://www.linkedin.com/in/shivam-raval-27820484/"
   weight = 10
 
 [[social]]
   name = "GitHub"
   pre = "<i class=\"fab fa-github fa-2x\"></i>"
-  url = "https://github.com/"
+  url = "https://shivamvraval.github.io/"
   weight = 20
 
 [[social]]
-  name = "Medium"
-  pre = "<i class=\"fab fa-medium fa-2x\"></i>"
-  url = "https://medium.com/"
+  name = "Instagram"
+  pre = "<i class=\"fab fa-instagram fa-2x\"></i>"
+  url = "https://www.instagram.com/jager.bomber/"
   weight = 30
 
 # toml-docs-start sample-navigation
@@ -53,6 +74,10 @@
   name = "Blog"
   url = "/blog/"
   weight = 10
+
+
+
+
 
 [[sample]]
   name = "Projects"

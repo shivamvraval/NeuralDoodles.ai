@@ -1,8 +1,8 @@
 ---
-author: Mark Dumay
-title: Fourth post
-date: 2023-01-01
-description: This is my fourth blog post.
+author: Shivam Raval
+title: Art as a medium of Expression
+date: 2023-03-10
+description: 
 tags: ["blog"]
 thumbnail: img/flowers.jpg # https://picsum.photos/id/106/2592/1728
 photoCredits: <a href="https://unsplash.com/@flutterhappy">Arvee Marie</a>

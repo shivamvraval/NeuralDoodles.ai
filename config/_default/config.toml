@@ -1,6 +1,6 @@
 # toml-docs-start main
-title = "Hinode"
-copyright = "Copyright © 2023 Mark Dumay."
+title = "NeuralDoodles"
+copyright = "Copyright © 2023 Shivam Raval."
 paginate = 9
 enableGitInfo = true
 # toml-docs-end main
