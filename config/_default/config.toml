@@ -23,7 +23,7 @@ timeout = "60s"
 # toml-docs-start language
 languageCode = "en-us"
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 # toml-docs-end language
 
 # toml-docs-start build
